@@ -272,6 +272,10 @@ Emitted when the entire request has been received, and all contained files have 
 
 ## Changelog
 
+### v1.0.18
+
+* add support to Node.JS 7
+
 ### v1.0.14
 
 * Add failing hash tests. (Ben Trask)
